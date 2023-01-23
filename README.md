@@ -2,7 +2,8 @@
 Using PySpark, ALS and KMeans to recommend / LinearRegression to predict box office revenues and average ratings
 
 ### Analysis of the ratings and movies
-
+* Movies grouped by production names
+* Movies ordered by popularity and other relevant insights
 ### Prediction of vote_averages and box office revenues thanks to a cross validator containing a RegressionEvaluator
 
 
