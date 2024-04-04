@@ -1,5 +1,8 @@
 # Movie-Recommender
-Using PySpark, ALS and KMeans to recommend / LinearRegression to predict box office revenues and average ratings
+- Process the user ratings with PySpark
+- Collaborative filtering: algorithm ALS (Alternated Least Squares)
+- KMeans to recommend unseen movies to users from preference clusters
+- LinearRegression to predict box office revenues and average ratings
 
 ### Analysis of the ratings and movies
 * Movies grouped by production names
